@@ -2,7 +2,8 @@
 
 This repository contains the code used in the study:
 
-> **Machine Learning Regression for Crop Yield Prediction Using Soil and Environmental Features**
+> **Understanding Soil and Climate Drivers of Crop Yield for
+Sustainable Farming Using Interpretable Machine Learning**
 
 The project explores multiple machine-learning regression models for predicting crop yield from soil nutrients, nutrient ratios and environmental variables, and compares a **full feature set** with a **reduced core feature set** (Temperature, Rainfall, N\_Ratio, P\_Ratio, K\_Ratio). Model interpretability is analyzed using **SHAP**.
 
